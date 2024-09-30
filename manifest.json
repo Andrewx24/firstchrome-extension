@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Andrew Aliaj",
+    "version": "1.0.0",
+    "description": "simple extension",
+   "action":{
+        "default_popup": "index.html",
+        "default_title": "Simple Chrome Extension"
+    }
+  }
